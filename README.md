@@ -7,17 +7,6 @@ The linear algebra chapter serves as introductory exploration of fundamental con
 Each section is a Jupyter notebook and begins with a brief overview of the objectives and followed by several examples exercises to enhance understanding and facilitate learning. Moreover, I aim to include numerical notes wherever appropriate. These notes aim to explain and compare different computational approaches to problem-solving. My goal is to write my own code (whenever possible) to solve problems. However, for matrices of higher dimensions, we take advantage of the NumPy linear algebra module which provide efficient implementations of standard linear algebra algorithms.
 
 
-📘 **About the Book:**
-
-The book is currently undergoing editing, but we expect a final copy to be available sometime in Spring 2024.
-You can access the "in progress" draft at the following link: https://timothyprojectgig.github.io/JB_Math_Textbook/intro.html
-Book Editors: Paul Isihara, Peter Jantsch, Thomas VanDrunen
-Technical Editor: Claire Wagner
-Faculty Contributors: Soheil Anbouhi, Laura Gross, Paul Isihara, Peter Jantsch, Ying Li, Yiheng Liang, Rachel Petrik, Inne Singge
-Student Contributors: Samuel Carlson, Claire Wagner, Ziling Zhong, Jonathan Zhu
-
-
-
 🚀 **What's Inside:**
 - Ready-to-use Jupyter notebooks for linear algebra
 - Visualizations and interactive examples
@@ -37,3 +26,14 @@ Stay tuned for the book's release, and let's empower math teachers and students 
 For inquiries or collaborations, please reach out to [soheil.p86@gmail.com].
 
 Happy teaching and coding!
+
+
+📘 **About the Book:**
+
+The book is currently undergoing editing, but we expect a final copy to be available sometime in Spring 2024.
+You can access the "in progress" draft at the following link: https://timothyprojectgig.github.io/JB_Math_Textbook/intro.html
+Book Editors: Paul Isihara, Peter Jantsch, Thomas VanDrunen
+Technical Editor: Claire Wagner
+Faculty Contributors: Soheil Anbouhi, Laura Gross, Paul Isihara, Peter Jantsch, Ying Li, Yiheng Liang, Rachel Petrik, Inne Singge
+Student Contributors: Samuel Carlson, Claire Wagner, Ziling Zhong, Jonathan Zhu
+
