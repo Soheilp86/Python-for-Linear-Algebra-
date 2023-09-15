@@ -48,7 +48,7 @@ These notebooks are designed for motivated students and teachers! Feel free to c
 Stay tuned for the book's release, and let's empower math teachers and students with the power of Python and Jupyter!
 
 📧 **Contact:**
-For inquiries or collaborations, please reach out to [soheil.p86@gmail.com].
+For inquiries or collaborations, please reach out to [me](soheil.p86@gmail.com).
 
 Happy teaching and coding!
 
