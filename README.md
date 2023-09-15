@@ -44,7 +44,7 @@ Happy teaching and coding!
 
 The book is currently undergoing editing, but we expect a final copy to be available sometime in Spring 2024.
 
-You can access the "in progress" draft [HERE](https://timothyprojectgig.github.io/JB_Math_Textbook/intro.html)
+You can access the "in progress" draft [HERE](https://timothyprojectgig.github.io/JB_Math_Textbook/intro.html).
 
 Book Editors: Paul Isihara, Peter Jantsch, Thomas VanDrunen
 
