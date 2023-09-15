@@ -43,7 +43,7 @@ These notebooks are designed for motivated students and teachers! Feel free to c
 -[Analytic Geometry](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/z4.ipynb)
 
 
-
+-[Solutions](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/z5.ipynb)
 
 Stay tuned for the book's release, and let's empower math teachers and students with the power of Python and Jupyter!
 
