@@ -34,6 +34,6 @@ If you have any suggestions, improvements, or want to contribute your own notebo
 Stay tuned for the book's release, and let's empower math teachers and students with the power of Python and Jupyter!
 
 📧 **Contact:**
-For inquiries or collaborations, please reach out to [Your Contact Information].
+For inquiries or collaborations, please reach out to [soheil.p86@gmail.com].
 
 Happy teaching and coding!
