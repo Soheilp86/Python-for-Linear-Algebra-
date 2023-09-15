@@ -16,7 +16,10 @@ Each section begins with a brief overview of the objectives and followed by seve
 
 📦 **Getting Started:**
 These notebooks are designed for motivated students and teachers! Feel free to clone this repository and explore the notebooks. Or simply click on the following links to open them in Google Colab:
-[Introduction](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/0-Introduction.ipynb)
+
+-[Introduction](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/0-Introduction.ipynb)
+-[Linear Systems and their solutions](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/Linear Systems.ipynb.ipynb)
+-[Linear Systems and their solutions](https://colab.research.google.com/github/soheilp86/Python-for-Linear-Algebra-/blob/main/Linear Systems.ipynb.ipynb)
 
 
 
